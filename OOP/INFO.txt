@@ -1,0 +1,47 @@
+What is OOP?
+In OOP specific Attributes belonging to a "class" are combined with functions that perform operations linked to that class. 
+This allows related data and functions to be grouped together under various class names.
+A class acts as blueprint. The blueprint includes the attributes and behaviours/actions that any object which belongs to that class should follow.
+Various objects can belong to a given class. 
+e.g. Class - > (Person) 
+###  Objects -> Person-A, Person-B, Person-C
+###  Attributes - > Head, Eyes, Name, Mouth, Arm 
+###  Functions/Actions - >    Run, Walk, Talk, Jump. 
+
+In OOP functions are typically called methods.
+
+
+
+How it differs from procedural programming?  
+- In procedural programming, related attributes and functions are not grouped.  
+- OOP makes it easier to re-use code.
+- Offers improved modularity.
+- Low coupling 
+
+
+Four Principles of OOP: 
+1 Abstraction 
+2 Encapsulation
+3 Inheritance 
+4 Polymorphism 
+
+
+Abstraction: High-Level description of an object.  There are various types of car. "category: car" -- > Allows us to contain all of these within it. 
+
+Encapsulation: Certain details about a class and it's objects do not need to be understood and/or should be hidden from the user. 
+               Create an interface which hides (advanced/safety critical) features.  
+
+Inheritance: A more specific sub-category[Subclass] of a general category[Class/Superclass]. 
+
+
+Polymorphism: The same method or instruction can be used by for various classes(objects). Start. Go. Stop. etc. Each class is capabale of dealing with 
+the same message. Each class knows how to react to the 'same message' for their own specific case but how they do that is often hidden from the UI. 
+scenario:
+The action required by Class runner to 'go', is different than the action required by Class rocket to 'go'. Yet they both receive the same instruction. 
+The fine details of how they are able to 'go' are typically hidden from the user but the user can send the 'go' message to both classes. 
+
+
+
+
+
+

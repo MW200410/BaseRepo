@@ -1,0 +1,25 @@
+# THINGS TO PRACTICE 
+
+1- PRIMES 
+
+2- FACTORS 
+
+3- MULTIPLES 
+
+4- ODD/EVEN 
+
+5- FIB SEQUENCE
+
+============================================
+6- [String Methods]
+
+7- [List Methods]
+
+8- [Dict Methods]
+
+9- [Sets- Testing Duplicates]
+
+10- [MATH/STATS]
+============================================
+11- LIST/DICTIONARY COMPREHENSION 
+============================================
