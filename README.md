@@ -1,6 +1,5 @@
 # BaseRepo
 
-![image](C:/Users/marti/OneDrive/Pictures/python.png) 
 
 ### ***This repository covers fundamental python concepts. There are various folders each containing python scripts where example code is provided within each script.***
 
